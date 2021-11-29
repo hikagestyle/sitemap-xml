@@ -34,6 +34,11 @@ sitemap-xml.txtを「sitemap.xml」で名前を付けて保存
 sitemap.xmlの完成
 
 
+## 完成イメージ
+
+sample.txt
+
+
 ## priority
 1.0から0.1の範囲
 
